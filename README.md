@@ -6,7 +6,7 @@ A very simple extension for [TTYtter]() that adds commands allowing you to updat
 
 Reference in your `.ttytterrc` file like so:
 
-	:exts=/path/to/profile.pl
+	exts=/path/to/profile.pl
 
 ##Commands
 
