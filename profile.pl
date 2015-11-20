@@ -1,5 +1,5 @@
-# An extension for TTYtter (http://www.floodgap.com/software/ttytter/) that adds commands to update user_profile information
-# I have NO IDEA what I'm doing in Perl so considerably messy at the moment
+# An extension for oysttyer (https://github.com/oysttyer/oysttyer) that adds commands to update user_profile information
+# I had NO IDEA what I was doing in Perl when I wrote this
 # Mostly cobbled together from the examples on the Floodgap page and extensions by others.
 
 $addaction = sub {
